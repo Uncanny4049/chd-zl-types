@@ -1,3 +1,3 @@
-module github.com/Capsule7446/chd-zl-types
+module github.com/Uncanny4049/chd-zl-types
 
 go 1.20
